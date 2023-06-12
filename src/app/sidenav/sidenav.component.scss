@@ -28,7 +28,7 @@
       border-radius: 5px;
       margin: 0 8px;
       &:hover {
-        background: #2c3344 !important;
+        background: #a4a9b2 !important;
       }
     }
   }
@@ -43,15 +43,15 @@
   color: #f2f5f7 !important;
   ::ng-deep {
     .mat-list-item-content {
-      background: #2c3344 !important;
+      background: #6d6e6f !important;
       &:hover {
-        background: #2c3344 !important;
+        background: #b4b8c0 !important;
       }
     }
   }
 }
 .mat-subheader {
-  color: #818cf8;
+  color: #ceced3;
   font-size: 0.6rem;
   font-weight: 100;
   letter-spacing: 1px;

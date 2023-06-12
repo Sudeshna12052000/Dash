@@ -8,6 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class DashboardComponent implements OnInit {
 
   constructor() { }
+  goToLink(url: string){
+    window.open(url, "_blank");
+}
 
   ngOnInit(): void {
   }
